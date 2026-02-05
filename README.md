@@ -6,6 +6,8 @@
 ---
 
 ### 👨‍💻 About Me  
+- 🌎 I live in India
+- 📑 To view my Portfolio **[Click here](https://burhanx.netlify.app)**
 - 🌱 Currently learning: **Full Stack Development / Programming**
 - 💻 Interested in: **Frontend, Backend, and Open Source**
 - 🎯 Goal: **Become a skilled Full Stack Developer**
