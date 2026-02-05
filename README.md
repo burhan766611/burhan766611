@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Connect With Me  
-- GitHub: **[@burhan766611](https://github.com/burhan766611)**  
-- Email: **burhansheikh837@gmail.com**
+**[📧](burhansheikh837@gmail.com)**
+**[🔗](https://www.linkedin.com/in/burhansheikh-/)** 
 
 ---
 
