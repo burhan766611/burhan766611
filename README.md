@@ -8,18 +8,17 @@
 ### 👨‍💻 About Me  
 - 🌎 I live in India
 - 📑 To view my Portfolio **[Click here](https://burhanx.netlify.app)**
-- 🌱 Currently learning: **Full Stack Development / Programming**
+- 🌱 Currently Working on various **Full Stack Projects** and **learning new technologies**
 - 💻 Interested in: **Frontend, Backend, and Open Source**
-- 🎯 Goal: **Become a skilled Full Stack Developer**
 - ⚡ Fun fact: I love learning new tech and building projects
 
 ---
 
 ### 🛠️ Skills  
-- 💻 HTML | CSS | JavaScript  
-- ⚛️ React   
+- 💻 HTML | CSS | JavaScript | TypeScript
+- ⚛️ React | Next.js
 - 🐍 Python 
-- 🗄️ MySQL / MongoDB 
+- 🗄️ MySQL | MongoDB 
 
 ---
 
