@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Connect With Me  
-**[📧](burhansheikh837@gmail.com)**
-**[🔗](https://www.linkedin.com/in/burhansheikh-/)** 
+-- Email : **[📧](burhansheikh837@gmail.com)**
+-- Linkedin : **[🔗](https://www.linkedin.com/in/burhansheikh-/)** 
 
 ---
 
